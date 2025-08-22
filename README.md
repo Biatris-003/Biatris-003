@@ -6,14 +6,12 @@
 
 ## 🚀 About Me
 
-- 🎓 **Systems & Biomedical Engineering Student** at Cairo University, Egypt
-- 💡 **22 years old** passionate about merging technology with healthcare innovation
-- 🔭 I'm currently working on **biomedical device prototypes and system optimization**
-- 🌱 I'm currently learning **advanced signal processing and embedded systems**
-- 👯 I'm looking to collaborate on **biomedical engineering projects and healthcare tech**
-- 💬 Ask me about **Python, C++, biomedical systems, or Arduino projects!**
-- 📫 How to reach me: **biatriss.shehata@example.com**
-- ⚡ Fun fact: **I love combining engineering with biology to solve real-world healthcare challenges!**
+- 🎓 **Systems & Biomedical Engineering Student (Class of 2026)** at Cairo University, Egypt
+- 🔭 Currently working on **Intelligent workflow optimization platforms for hospital biomedical equipment management**
+- 🌱 Currently learning **Machine Learning algorithms and mobile app development with Flutter/Dart**
+- 👯 Looking to collaborate on **biomedical engineering projects and healthcare tech**
+- 💬 Ask me about **Python, C++, Java, OOP, biomedical systems, or Arduino projects!**
+- 📫 How to reach me: **biatriss.shehata03@eng-st.cu.edu.eg**
 - 🇪🇬 **Proudly from Egypt** - where ancient innovation meets modern technology
 
 ## 🛠️ Tech Stack
@@ -25,8 +23,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -51,20 +49,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biatriss-003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biatriss-003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Biatris-003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biatris-003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biatriss-003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biatris-003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biatriss-003&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Biatris-003&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biatriss-003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biatris-003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
