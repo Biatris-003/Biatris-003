@@ -44,79 +44,27 @@
 ### Specialized Areas
 ![Biomedical Engineering](https://img.shields.io/badge/-Biomedical_Engineering-FF6B6B?style=for-the-badge&logo=dna&logoColor=white)
 ![Systems Engineering](https://img.shields.io/badge/-Systems_Engineering-4ECDC4?style=for-the-badge&logo=settings&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/-Embedded_Systems-45B7D1?style=for-the-badge&logo=microchip&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/-Problem_Solving-45B7D1?style=for-the-badge&logo=microchip&logoColor=white)
 
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biatrissshehata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biatrissshehata&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Biatriss-003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biatriss-003&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biatrissshehata&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biatriss-003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=biatrissshehata&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Biatriss-003&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biatrissshehata&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
-## 🎯 Current Focus
-
-```cpp
-class BiomedicalEngineer {
-    private:
-        string name = "Biatriss Shehata";
-        int age = 22;
-        string university = "Cairo University";
-        
-    public:
-        vector<string> currentLearning = {
-            "Advanced Signal Processing", 
-            "Embedded Systems Design",
-            "Medical Device Development",
-            "Machine Learning for Healthcare"
-        };
-        
-        vector<string> currentProjects = {
-            "Arduino-based Health Monitoring System",
-            "Qt GUI for Medical Data Analysis",
-            "Biomedical Signal Processing Tools"
-        };
-        
-        vector<string> goals2024 = {
-            "Contribute to open-source medical software",
-            "Develop innovative healthcare solutions",
-            "Master embedded systems programming",
-            "Bridge the gap between engineering and medicine"
-        };
-};
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biatriss-shehata)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biatriss.shehata@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://biatriss-portfolio.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/biatrissshehata)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=biatrissshehata&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <i>⭐️ From [biatrissshehata](https://github.com/biatrissshehata) - Engineering the future of healthcare 🏥💻</i>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biatriss-003&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
